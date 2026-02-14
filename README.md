@@ -22,7 +22,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-330000?style=flat-square&logo=vue.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/NestJS-660000?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-3d0000?style=flat-square&logo=fastapi&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-2a0000&style=flat-square&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-520000?style=flat-square&logo=rabbitmq&logoColor=white)
 
 
@@ -33,12 +32,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Extroz5&show_icons=true&theme=dark&hide_border=true&bg_color=0a0000&title_color=8B0000&icon_color=8B0000&text_color=8B8B8B&ring_color=8B0000&fire_color=8B0000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Extroz5&theme=dark&hide_border=true&background=0a0000&stroke=4d0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=8B8B8B&dates=666666" width="48%" />
-
-<br/>
 
 
 
