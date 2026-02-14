@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alexander</h1>
 <h3 align="center">A frontend developer from indonesia</h3>
 
-- ⚡ Fun fact **im groot**
+- ⚡ Fun fact **im L**
 
 <p align="left">
 </p>
