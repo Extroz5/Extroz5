@@ -1,13 +1,45 @@
-<h1 align="center">Hi 👋, I'm alexander</h1>
-<h3 align="center">A frontend developer from indonesia</h3>
+<div align="center">
 
-- ⚡ Fun fact **im L**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x1a0000,0x330000,0x4d0000&height=200&section=header&animation=fadeIn" width="100%"/>
 
-<p align="left">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsNWExOXVhdGc3MWtkMDN6eGp2Nmd1eGtuczR0ZGdnbDF5bGZrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BK5q771QamPcs/giphy.gif" width="400"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=45&duration=4000&pause=2000&color=8B0000&center=true&vCenter=true&width=600&height=100&lines=ALEXANDER;観察者)
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ5NTkxcWdibHpwOWF0Y2RrbWtsYW03Z2hlcWNpOXVibTA2b3VyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yxgAo7fEA8Ip2/giphy.gif" alt=""/>
+
+
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<div align="center">
+
+![GraphQL](https://img.shields.io/badge/GraphQL-8B0000?style=flat-square&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-1a0000?style=flat-square&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D1B1B?style=flat-square&logo=prisma&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4d0000?style=flat-square&logo=svelte&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-330000?style=flat-square&logo=vue.js&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-660000?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-3d0000?style=flat-square&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-2a0000&style=flat-square&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-520000?style=flat-square&logo=rabbitmq&logoColor=white)
+
+
+<br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,rust,postgres,mongodb,redis,docker,kubernetes,aws,gcp,terraform,git,github,vscode,neovim,linux&perline=10&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Extroz5&show_icons=true&theme=dark&hide_border=true&bg_color=0a0000&title_color=8B0000&icon_color=8B0000&text_color=8B8B8B&ring_color=8B0000&fire_color=8B0000" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Extroz5&theme=dark&hide_border=true&background=0a0000&stroke=4d0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=8B8B8B&dates=666666" width="48%" />
+
+<br/>
+
+
+
+
